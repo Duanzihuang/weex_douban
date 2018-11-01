@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+        "outputFile": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 218
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 285
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 349
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -88,7 +88,7 @@
                     "endOffset": 650
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/src/main/res/values-v21/styles.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 741
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 844
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 947
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 1052
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 1159
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 1268
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 1377
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 1486
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 1595
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 1704
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -298,7 +298,7 @@
                     "endOffset": 1811
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -317,7 +317,7 @@
                     "endOffset": 1914
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -336,7 +336,7 @@
                     "endOffset": 2033
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -356,7 +356,7 @@
                     "endOffset": 2188
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -377,7 +377,7 @@
                     "endOffset": 2343
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -397,7 +397,7 @@
                     "endOffset": 2448
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -416,7 +416,7 @@
                     "endOffset": 2569
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -435,7 +435,7 @@
                     "endOffset": 2670
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -455,7 +455,7 @@
                     "endOffset": 2817
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -476,7 +476,7 @@
                     "endOffset": 2958
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -496,7 +496,7 @@
                     "endOffset": 3061
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -515,7 +515,7 @@
                     "endOffset": 3180
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -534,7 +534,7 @@
                     "endOffset": 3287
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -553,7 +553,7 @@
                     "endOffset": 3390
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -573,7 +573,7 @@
                     "endOffset": 3545
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -594,7 +594,7 @@
                     "endOffset": 3716
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -615,7 +615,7 @@
                     "endOffset": 3865
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -636,7 +636,7 @@
                     "endOffset": 4030
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -657,7 +657,7 @@
                     "endOffset": 4187
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -678,7 +678,7 @@
                     "endOffset": 4338
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -698,7 +698,7 @@
                     "endOffset": 4457
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -718,7 +718,7 @@
                     "endOffset": 4829
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -739,7 +739,7 @@
                     "endOffset": 4978
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -760,7 +760,7 @@
                     "endOffset": 5127
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -780,7 +780,7 @@
                     "endOffset": 5239
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -799,7 +799,7 @@
                     "endOffset": 5386
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -819,7 +819,7 @@
                     "endOffset": 5539
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -840,7 +840,7 @@
                     "endOffset": 5686
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -860,7 +860,7 @@
                     "endOffset": 5761
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -879,7 +879,7 @@
                     "endOffset": 5850
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
@@ -898,7 +898,7 @@
                     "endOffset": 5937
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -917,7 +917,7 @@
                     "endOffset": 6038
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -936,7 +936,7 @@
                     "endOffset": 6141
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -956,7 +956,7 @@
                     "endOffset": 9209
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -977,7 +977,7 @@
                     "endOffset": 9395
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 107,
                         "startColumn": 4,
@@ -998,7 +998,7 @@
                     "endOffset": 12475
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 110,
                         "startColumn": 4,
@@ -1019,7 +1019,7 @@
                     "endOffset": 12673
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 154,
                         "startColumn": 4,
@@ -1040,7 +1040,7 @@
                     "endOffset": 12873
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
@@ -1061,7 +1061,7 @@
                     "endOffset": 13084
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1082,7 +1082,7 @@
                     "endOffset": 13207
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
@@ -1103,7 +1103,7 @@
                     "endOffset": 13330
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
@@ -1124,7 +1124,7 @@
                     "endOffset": 13443
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 164,
                         "startColumn": 4,
@@ -1145,7 +1145,7 @@
                     "endOffset": 13626
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
@@ -1166,7 +1166,7 @@
                     "endOffset": 13757
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
@@ -1187,7 +1187,7 @@
                     "endOffset": 13958
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
@@ -1207,7 +1207,7 @@
                     "endOffset": 14047
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 174,
                         "startColumn": 4,
@@ -1226,7 +1226,7 @@
                     "endOffset": 14158
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 175,
                         "startColumn": 4,
@@ -1246,7 +1246,7 @@
                     "endOffset": 14391
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
@@ -1266,7 +1266,7 @@
                     "endOffset": 14492
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1285,7 +1285,7 @@
                     "endOffset": 14587
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 180,
                         "startColumn": 4,
@@ -1304,7 +1304,7 @@
                     "endOffset": 14710
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -1323,7 +1323,7 @@
                     "endOffset": 14839
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 182,
                         "startColumn": 4,
@@ -1342,7 +1342,7 @@
                     "endOffset": 14956
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1362,7 +1362,7 @@
                     "endOffset": 15133
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 184,
                         "startColumn": 4,
@@ -1382,7 +1382,7 @@
                     "endOffset": 15232
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 187,
                         "startColumn": 4,
@@ -1402,7 +1402,7 @@
                     "endOffset": 15367
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
@@ -1423,7 +1423,7 @@
                     "endOffset": 15510
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 190,
                         "startColumn": 4,
@@ -1444,7 +1444,7 @@
                     "endOffset": 15645
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1465,7 +1465,7 @@
                     "endOffset": 15764
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1486,7 +1486,7 @@
                     "endOffset": 15965
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1507,7 +1507,7 @@
                     "endOffset": 16084
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1527,7 +1527,7 @@
                     "endOffset": 16177
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1546,7 +1546,7 @@
                     "endOffset": 16288
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -1565,7 +1565,7 @@
                     "endOffset": 16344
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -1585,7 +1585,7 @@
                     "endOffset": 16451
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1606,7 +1606,7 @@
                     "endOffset": 16646
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1627,7 +1627,7 @@
                     "endOffset": 16757
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -1648,7 +1648,7 @@
                     "endOffset": 16890
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 213,
                         "startColumn": 4,
@@ -1668,7 +1668,7 @@
                     "endOffset": 16985
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -1687,7 +1687,7 @@
                     "endOffset": 17076
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 216,
                         "startColumn": 4,
@@ -1706,7 +1706,7 @@
                     "endOffset": 17167
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -1725,7 +1725,7 @@
                     "endOffset": 17284
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -1745,7 +1745,7 @@
                     "endOffset": 17423
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -1765,7 +1765,7 @@
                     "endOffset": 17520
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1784,7 +1784,7 @@
                     "endOffset": 17591
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 221,
                         "startColumn": 4,
@@ -1803,7 +1803,7 @@
                     "endOffset": 17674
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 222,
                         "startColumn": 4,
@@ -1823,7 +1823,7 @@
                     "endOffset": 18354
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 223,
                         "startColumn": 4,
@@ -1843,7 +1843,7 @@
                     "endOffset": 18411
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 233,
                         "startColumn": 4,
@@ -1862,7 +1862,7 @@
                     "endOffset": 18469
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 234,
                         "startColumn": 4,
@@ -1882,7 +1882,7 @@
                     "endOffset": 19163
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 235,
                         "startColumn": 4,
@@ -1903,7 +1903,7 @@
                     "endOffset": 19869
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 247,
                         "startColumn": 4,
@@ -1923,7 +1923,7 @@
                     "endOffset": 19988
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 259,
                         "startColumn": 4,
@@ -1942,7 +1942,7 @@
                     "endOffset": 20117
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 260,
                         "startColumn": 4,
@@ -1962,7 +1962,7 @@
                     "endOffset": 20288
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 261,
                         "startColumn": 4,
@@ -1983,7 +1983,7 @@
                     "endOffset": 20454
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 264,
                         "startColumn": 4,
@@ -2003,7 +2003,7 @@
                     "endOffset": 20583
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 267,
                         "startColumn": 4,
@@ -2023,7 +2023,7 @@
                     "endOffset": 20754
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 268,
                         "startColumn": 4,
@@ -2043,7 +2043,7 @@
                     "endOffset": 20885
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 271,
                         "startColumn": 4,
@@ -2063,7 +2063,7 @@
                     "endOffset": 21055
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 272,
                         "startColumn": 4,
@@ -2083,7 +2083,7 @@
                     "endOffset": 21171
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -2102,7 +2102,7 @@
                     "endOffset": 21297
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -2122,7 +2122,7 @@
                     "endOffset": 21465
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -2143,7 +2143,7 @@
                     "endOffset": 21628
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -2163,7 +2163,7 @@
                     "endOffset": 21754
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -2183,7 +2183,7 @@
                     "endOffset": 21922
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -2203,7 +2203,7 @@
                     "endOffset": 22050
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -2223,7 +2223,7 @@
                     "endOffset": 22217
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -2244,7 +2244,7 @@
                     "endOffset": 22389
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -2265,7 +2265,7 @@
                     "endOffset": 22727
                 },
                 "from": {
-                    "file": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,

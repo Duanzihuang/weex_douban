@@ -157,6 +157,12 @@ const webConfig = {
           })
         }],
         exclude: config.excludeModuleReg
+      },
+      {
+        test: /\.(png|jpg)$/,
+        use: [{
+          loader: 'url-loader'
+        }]
       }
     ])
   },
@@ -205,6 +211,12 @@ const weexConfig = {
           options: vueLoaderConfig({useVue: false})
         }],
         exclude: config.excludeModuleReg
+      },
+      {
+        test: /\.(png|jpg)$/,
+        use: [{
+          loader: 'url-loader'
+        }]
       }
     ]
   },

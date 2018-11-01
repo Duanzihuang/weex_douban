@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
-        "source": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+        "merged": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
-        "merged": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
-        "source": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+        "merged": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     }
 ]

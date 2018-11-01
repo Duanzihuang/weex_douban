@@ -1,105 +1,71 @@
 <template>
-  <wxc-tab-bar :tab-titles="tabTitles"
-               :tab-styles="tabStyles"
-               title-type="icon"
-               @wxcTabBarCurrentTabSelected="wxcTabBarCurrentTabSelected">
-    <!-- 第一个页面内容-->
-    <div class="item-container" :style="contentStyle">
-      <wxc-minibar title="首页"
-                   background-color="#FFFFFF"
-                   text-color="#3D3D3D"
-                   leftButton="">
-      </wxc-minibar>
-
-      <text>首页</text>
+  <div class="wrap">
+    <div v-if="showIndex===0">
+      <Home />
     </div>
-
-    <!-- 第二个页面内容-->
-    <div class="item-container" :style="contentStyle">
-      <wxc-minibar title="电影"
-                   background-color="#FFFFFF"
-                   text-color="#3D3D3D"
-                   leftButton="">
-      </wxc-minibar>
-      <text>电影</text>
-      </div>
-
-    <!-- 第三个页面内容-->
-    <div class="item-container" :style="contentStyle">
-      <wxc-minibar title="电影"
-                   background-color="#FFFFFF"
-                   text-color="#3D3D3D"
-                   leftButton="">
-      </wxc-minibar>
-      <text>我的</text>
+    <div v-else-if="showIndex===1">
+      <Movie />
     </div>
-  </wxc-tab-bar>
+    <div v-else-if="showIndex===2">
+      <Mine />
+    </div>
+    <tab-bar :tabItems="tabItems" @selectTab="selectTab"></tab-bar>
+  </div>
 </template>
 
-<style scoped>
-.item-container {
-  width: 750px;
-  background-color: #f2f3f4;
-}
-</style>
-
 <script>
-import { WxcTabBar, Utils, WxcMinibar } from "weex-ui";
+import tabbar from './components/tabbar'
+import Home from './components/home/Home'
+import Movie from './components/movie/Movie'
+import Mine from './components/mine/Mine'
 export default {
-  name: "App",
-  components: { WxcTabBar, WxcMinibar },
+  components: { tabBar: tabbar, Home, Movie, Mine },
   data() {
     return {
-      tabTitles: [
+      showIndex: 0, //显示第几个页面
+      tabItems: [
         {
-          title: "首页",
-          icon:
-            "https://gw.alicdn.com/tfs/TB1MWXdSpXXXXcmXXXXXXXXXXXX-72-72.png",
-          activeIcon:
-            "https://gw.alicdn.com/tfs/TB1kCk2SXXXXXXFXFXXXXXXXXXX-72-72.png"
+          title: '首页',
+          titleColor: '#000000',
+          image: 'http://www.huangjiangjun.top/assets/tabBar/home_normal.png',
+          selectedImage:
+            'http://www.huangjiangjun.top/assets/tabBar/home_selected.png'
         },
         {
-          title: "电影",
-          icon:
-            "https://gw.alicdn.com/tfs/TB1Do3tSXXXXXXMaFXXXXXXXXXX-72-72.png",
-          activeIcon:
-            "https://gw.alicdn.com/tfs/TB1LiNhSpXXXXaWXXXXXXXXXXXX-72-72.png"
+          title: '电影',
+          titleColor: '#000000',
+          image: 'http://www.huangjiangjun.top/assets/tabBar/movie_normal.png',
+          selectedImage:
+            'http://www.huangjiangjun.top/assets/tabBar/movie_selected.png'
         },
         {
-          title: "我的",
-          icon:
-            "https://gw.alicdn.com/tfs/TB1ARoKSXXXXXc9XVXXXXXXXXXX-72-72.png",
-          activeIcon:
-            "https://gw.alicdn.com/tfs/TB1ARoKSXXXXXc9XVXXXXXXXXXX-72-72.png"
+          title: '我的',
+          titleColor: '#000000',
+          image: 'http://www.huangjiangjun.top/assets/tabBar/mine_normal.png',
+          selectedImage:
+            'http://www.huangjiangjun.top/assets/tabBar/mine_selected.png'
         }
-      ],
-      tabStyles: {
-        bgColor: "#FFFFFF",
-        titleColor: "#666666",
-        activeTitleColor: "#3D3D3D",
-        activeBgColor: "#FFFFFF",
-        isActiveTitleBold: true,
-        iconWidth: 70,
-        iconHeight: 70,
-        width: 160,
-        height: 120,
-        fontSize: 24,
-        textPaddingLeft: 10,
-        textPaddingRight: 10
-      }
-    };
-  },
-  created() {
-    const tabPageHeight = Utils.env.getPageHeight();
-
-    const { tabStyles } = this;
-    this.contentStyle = { height: tabPageHeight - tabStyles.height + "px" };
+      ]
+    }
   },
   methods: {
-    wxcTabBarCurrentTabSelected(e) {
-      const index = e.page;
-      // console.log(index);
+    selectTab(index) {
+      this.showIndex = index
     }
   }
-};
+}
 </script>
+
+<style scoped>
+.wrap {
+  background-color: #f0efe9;
+}
+.title {
+  font-size: 24px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #3e434f;
+}
+</style>

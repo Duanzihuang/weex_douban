@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_scan.png",
-        "source": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/src/main/res/drawable-xhdpi/ic_action_scan.png"
+        "merged": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_scan.png",
+        "source": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_scan.png"
     },
     {
-        "merged": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_refresh.png",
-        "source": "/Users/huangwei/Documents/study/Weex/code/weex_douban/platforms/android/app/src/main/res/drawable-xhdpi/ic_action_refresh.png"
+        "merged": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_refresh.png",
+        "source": "C:\\Users\\huangwei\\Desktop\\weex_douban\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_refresh.png"
     }
 ]
